@@ -1,0 +1,12 @@
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\FilmesApi.exe
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\appsettings.Development.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\appsettings.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\FilmesApi.dll
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\FilmesApi.deps.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\FilmesApi.runtimeconfig.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\FilmesApi.pdb
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\Microsoft.OpenApi.dll
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\out\Swashbuckle.AspNetCore.SwaggerUI.dll
