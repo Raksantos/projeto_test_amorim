@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\projeto_test_amorim.props" />
+</Project>
