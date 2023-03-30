@@ -5,15 +5,7 @@ COPY . .
 RUN dotnet restore "./FilmesApi/FilmesApi.csproj" --disable-parallel
 RUN dotnet publish "./FilmesApi/FilmesApi.csproj" -c Release -o /app --no-restore
 
-#Development stage
-FROM mcr.microsoft.com/dotnet/sdk:7.0-alpine AS development
-WORKDIR /dev
-COPY --from=build /dev ./
-
-EXPOSE 3000
 EXPOSE 3001
-
-ENTRYPOINT ["dotnet", "FilmesApi.dll"]
 
 #Serve stage
 FROM mcr.microsoft.com/dotnet/aspnet:7.0-alpine AS production

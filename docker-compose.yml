@@ -1,16 +1,5 @@
 version: "3.7"
 services:
-  development:
-    container_name: projeto_teste_amorim_development
-    build: 
-      context: .
-      dockerfile: Dockerfile
-      target: development
-    ports:
-      - "3000:80"
-      - "3001:443"
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
   production:
     container_name: projeto_teste_amorim_production
     build: 

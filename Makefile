@@ -8,4 +8,4 @@ down:
 	docker compose -f docker-compose.yml down
 
 logs_dev:
-	docker logs projeto_teste_amorim_development
+	docker logs projeto_teste_amorim
