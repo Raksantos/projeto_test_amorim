@@ -31,3 +31,8 @@ C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\obj\Debug\net7.0\
 C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\obj\Debug\net7.0\FilmesApi.pdb
 C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\obj\Debug\net7.0\FilmesApi.genruntimeconfig.cache
 C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\obj\Debug\net7.0\ref\FilmesApi.dll
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\bin\Debug\net7.0\out\web.config
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\bin\Debug\net7.0\out\appsettings.Development.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\bin\Debug\net7.0\out\appsettings.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\bin\Debug\net7.0\out\FilmesApi.deps.json
+C:\Users\rodri\Documents\MyStuff\projeto_test_amorim\FilmesApi\bin\Debug\net7.0\out\FilmesApi.runtimeconfig.json
