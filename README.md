@@ -8,4 +8,8 @@ Para executar o projeto, basta clonar o repositório e executar o comando abaixo
 
     dotnet run --project FilmesApi/FilmesApi.csproj
 
-E acessar o endereço http://localhost:5286/swagger/ para acessar a aplicação
+Ou ainda usar o Makefile para executar o projeto:
+
+    make run
+
+E acessar o endereço http://localhost:5000/swagger/ para acessar a aplicação
